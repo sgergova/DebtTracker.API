@@ -1,0 +1,6 @@
+@DebtTracker.API_HostAddress = http://localhost:5212
+
+GET {{DebtTracker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
